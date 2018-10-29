@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Racism in Australia</title>
+	</head>
+	<body>
+	</body>
+	<script>
+    alert("If you are reading this,");
+    alert("please give me a good mark");
+    </script>
+	<footer>
+	<span style=color:#0000ff>If you are still reading this, plz give me a good mark</span>   
+	</footer>
+</html>
